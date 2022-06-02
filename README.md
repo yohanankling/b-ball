@@ -1,3 +1,27 @@
+to run - open your terminal in the same directry that the makefile of the project is and run:
+"make all"
+that will run the program and automaticlly run main and the output to your screen,
+where you can see a demonstrate of the program:
+a one leauge played and all the stats and details i've collected - directlly to your screen.
+
+you can run the command
+"make tidy"
+and see if there is some design code erors.
+
+also you can run the test and see some test cases i've checked.
+
+i have added two function to the statistics:
+- informations about the best and the worst teams.
+- information about points that scored in the league schedual.
+- about all the rest - you can see in the main the domstration of each function i have implemented,
+as the hpp file of each class.
+
+have fun!
+yohanan.
+
+---------------------------------------------------------------------------------------------------------------
+
+
 המטלה נכתבה במקור ע"י יואב גרוס ואלעד נביאי, סטודנטים משנים קודמות.
 
 # ליגת כדורסל
